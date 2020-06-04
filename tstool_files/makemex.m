@@ -1,8 +1,7 @@
 function makemex()
 
 % compile and copy mex-files to destination directories
-% Invoked by : makemex(TSTOOLpath)
-% or:          makemex
+% Invoked by : makemex
 % Edited by Joseph Young on June 4th, 2020 to only produce mex files for
 % k-nn, and to put them in right folder for your OS
 
