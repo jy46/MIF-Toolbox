@@ -23,6 +23,8 @@
 % takes on a random true MI_XY(f_0,f_0) value, and therefore we expect a
 % strong correlation between estimated and true MI_XY(f0,f0) values across
 % these random values.
+%
+% Copyright (C) 2020 Joseph Young
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
