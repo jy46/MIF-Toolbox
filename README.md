@@ -49,8 +49,8 @@ For future compatibility, if the pre-compiled mex files no longer work in a newe
 ## Method
 The key idea of this augmentation to the prior MIF approach (Malladi et al., 2018) is that we capitalize on the mutlitaper method (Thomson 1982) to reduce estimation variance and sharpen the capability of MIF estimation in correlation analyses. In particular, we implement what we call the "post" approach, where MI_XY(&fnof;0,&fnof;0) is computed separately for each taper and then the average MIF value taken across tapers is treated as the estimated MI_XY(&fnof;0,&fnof;0). Each MI estimate is performed via k-nn MI estimation (Kraskov et al., 2004).
 
-## Acknowledgement
-We thank DPI Göttingen for TSTOOL (DPI Göttingen, 2009), which is a software package that we have included some of the code from in order to perform k-nn estimation of MI (Kraskov et al., 2004). We have modified the code to produce up-to-date mex files, and both the modified code and mex files are included in the tstool_files/ directory. Since their code was licensed as GPLv2, we have also adopted the GPLv2 license for this toolbox.
+## Acknowledgement & Licensing
+We thank DPI Göttingen for TSTOOL (DPI Göttingen, 2009), which is a software package that we have included some of the code from in order to perform k-nn estimation of MI (Kraskov et al., 2004). We have modified the code to produce up-to-date mex files, and both the modified code and mex files are included in the tstool_files/ directory. Since their code was licensed as GPLv2, we have also adopted the GPLv2 license for this toolbox (see LICENSE and GPLv2_note.txt files).
 
 ## References
 <ol>
