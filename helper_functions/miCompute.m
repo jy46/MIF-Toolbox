@@ -14,7 +14,7 @@ function [ MI, f ] = miCompute( x, y, Fs, Fm, K, Np )
 %   MI          - MI in frequency
 %   f           - frequencies used by MI
 %
-% Copyright (C) 2020 Joseph Young
+% Copyright (C) 2020 Joseph Young - see GPLv2_note.txt for full notice
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   
