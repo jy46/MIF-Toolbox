@@ -13,6 +13,8 @@ function [ Xf, Yf, f ] = miFPrep( x,y,Fs,Fm )
 %         the 1st val in that dim is the real & the 2nd is the imag
 %   Yf  - output FFT, in shape of (Nf)X(Ns)X(2)
 %   f   - output actual frequency range
+%
+% Copyright (C) 2020 Joseph Young - see GPLv2_note.txt for full notice
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
    
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
