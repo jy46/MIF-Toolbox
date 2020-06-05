@@ -13,6 +13,8 @@ function [ HX ] = entropyKnn(x,d)
 %   - Kraskov, Stogbauer, & Grassberger. Estimating mutual information.
 %     Physical Review E 69. (2004)
 %   - Sudha Yellapantula - Rice University
+%
+% Copyright (C) 2020 Joseph Young
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
