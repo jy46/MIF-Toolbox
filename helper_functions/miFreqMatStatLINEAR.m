@@ -29,6 +29,8 @@ function [ MI ] = miFreqMatStatLINEAR( Xf,Yf,K,Np )
 %       Malladi et al. Mutual information in frequency and its application 
 %       to measure cross-frequency coupling in epilepsy.IEEE Transactions 
 %       on Signal Processing 66. (2018)
+%
+% Copyright (C) 2020 Joseph Young - see GPLv2_note.txt for full notice
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
