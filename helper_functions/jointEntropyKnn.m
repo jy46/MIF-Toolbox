@@ -15,7 +15,7 @@ function [ HXY, d ] = jointEntropyKnn(x,y,K)
 %     Physical Review E 69. (2004)
 %   - Sudha Yellapantula - Rice University
 %
-% Copyright (C) 2020 Joseph Young
+% Copyright (C) 2020 Joseph Young - see GPLv2_note.txt for full notice
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
