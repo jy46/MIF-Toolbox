@@ -12,6 +12,8 @@ function [IXY_val] = miKnnTS_return_IXY(Xf_sel,Yf_sel,K)
 %
 % OUTPUTS
 %   IXY_val - MI between X & Y at frequency that Xf_sel/Yf_sel are for
+%
+% Copyright (C) 2020 Joseph Young - see GPLv2_note.txt for full notice
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
