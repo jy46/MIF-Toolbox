@@ -1,4 +1,4 @@
-# MIF-Toolbox
+# MIF-Toolbox &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![DOI](https://zenodo.org/badge/269483611.svg)](https://zenodo.org/badge/latestdoi/269483611)
 Repository for MATLAB code used for information theoretic analysis of neural signals. In particular, this software computes Mutual Information in the Frequency domain (MIF) (Malladi et al., 2018) between time series data. The code uses a new low-variance approach that is improved for correlating MIF between neural signals with relevent experimental measurements, such as the accuracy of a monkey during a task. 
 
 ## Usage
