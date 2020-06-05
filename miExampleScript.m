@@ -24,7 +24,7 @@
 % strong correlation between estimated and true MI_XY(f0,f0) values across
 % these random values.
 %
-% Copyright (C) 2020 Joseph Young
+% Copyright (C) 2020 Joseph Young - see GPLv2_note.txt for full notice
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
